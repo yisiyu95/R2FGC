@@ -13,8 +13,8 @@ The proposed R2FGC is implemented with python 3.9.7 on a NVIDIA 2204 GPU.
 
 Python package information is summarized as
 
-- torch==1.10.1
-- numpy==1.21.2
+- torch == 1.10.1
+- numpy == 1.21.2
 - scipy == 1.9.1
 - torch_geometric == 1.7.1
 
