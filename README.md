@@ -1,7 +1,7 @@
 # Relational Redundancy-Free Graph Clustering
 
 
-An official source code for paper "Redundancy-Free Self-Supervised Relational Learning for Graph Clustering [Paper](https://arxiv.org/pdf/2309.04694.pdf)" [Accepted by TNNLS] 
+An official source code for paper "Redundancy-Free Self-Supervised Relational Learning for Graph Clustering" [Accepted by TNNLS, [[paper]](https://arxiv.org/pdf/2309.04694.pdf)] 
 by Si-Yu Yi, Wei Ju, Yifang Qin, Xiao Luo, Luchen Liu, Yong-Dao Zhou, and Ming Zhang.
 
 For questions, comments, or remarks about the code please contact Si-Yu Yi (siyuyi@mail.nankai.edu.cn). If you find this repository useful to your research or work, it is really appreciate to star this repository.
@@ -54,9 +54,9 @@ python main.py --name hhar --n_clusters 6 --n_input 50 --eta_value 0.2 --kappa_v
 If you use code or datasets in this repository for your research, please cite our paper.
 
 ```
-@article{Yi2023R2FGC,
+@article{yi2023redundancy,
   title={Redundancy-Free Self-Supervised Relational Learning for Graph Clustering},
-  author={Yi, Siyu and Ju, Wei and Qin, Yifang and Luo, Xiao and Liu, Luchen and Zhou, Yongdao and Zhang, Ming},
+  author={Yi, Si-Yu and Ju, Wei and Qin, Yifang and Luo, Xiao and Liu, Luchen and Zhou, Yong-Dao and Zhang, Ming},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2023},
   publisher={IEEE}
